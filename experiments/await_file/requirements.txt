@@ -1,0 +1,5 @@
+aioprocessing
+pylru
+filetype
+aiosqlite
+docopt
